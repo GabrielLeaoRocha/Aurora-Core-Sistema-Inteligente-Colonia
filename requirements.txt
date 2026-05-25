@@ -1,0 +1,3 @@
+# Aurora Core - Sistema Inteligente da Colônia
+# Nenhuma dependência externa necessária.
+# O projeto utiliza apenas a biblioteca padrão do Python (csv, os).
